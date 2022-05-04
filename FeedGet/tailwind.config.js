@@ -12,7 +12,7 @@ module.exports = {
       },
       borderRadius: {
         md: '4px',
-      }
+      },
     },
   },
   plugins: [
