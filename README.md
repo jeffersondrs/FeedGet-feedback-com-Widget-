@@ -1,11 +1,8 @@
-# FeedGet-feedback-com-Widget-
-Botão de Feedback com diferentes widgets para cada situação
-Todos com Screenshot e comentários para serem enviados. 
-Projeto desenvolvido na NLW return 2022 da rocketseat
-# Melhorias
-Estou trabalhando para melhorar esse projeto aos poucos e 
-Adaptar a situações diferentes. 
+Component react com botão de Feedback com diferentes widgets para cada situação
+Todos com Screenshot da tela atual de um possível bug.
+Textárea para comentarios caso o usuário ache necessário. 
+Projeto desenvolvido pela rocketseat.
 
-Projeto em react em typescript, HTML com bibliotecas 
-tailwind css, Html2canvas, phosphor, entre outras 
+Projeto em react utilizando typescript no ambiente de desenvolvimento, 
+bibliotecas tailwind css, Html2canvas, phosphor, entre outras 
 bibliotecas. 
